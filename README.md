@@ -1,5 +1,5 @@
-# SobreMim
-E ai! Sou o Eduardo 😁
+# E ai! Sou o Eduardo 😁
+
 
 📖 Estudante da area de TI 📖
 
