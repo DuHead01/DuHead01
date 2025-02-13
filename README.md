@@ -12,5 +12,6 @@ Meu nome é Eduardo tenho 19 anos e moro em Indaiatuba - SP.
 
 #### Loading...
 <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 
 
