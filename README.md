@@ -1,6 +1,6 @@
 # E ai!😁
 
-Meu nome é Eduardo tenho 19 anos e moro em Indaiatuba - SP.
+Meu nome é Eduardo tenho 20 anos e moro em Indaiatuba - SP.
 
 - 📖 **Estudante da area de TI** 📖
 - 🧑‍💻 **Gosto de desenvolver** 🧑‍💻
