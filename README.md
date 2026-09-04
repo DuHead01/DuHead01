@@ -3,7 +3,7 @@
 Meu nome é Eduardo tenho 21 anos e moro em Indaiatuba - SP.
 
 - 📖 **Estudante da area de TI** 📖
-- 🧑‍💻 **Gosto de desenvolver** 🧑‍💻
+- 🧑‍💻 **Gosto de desenvolver e testar softwares** 🧑‍💻
 - 🏐 **Apaixonado por esportes** 🏐
 
 
